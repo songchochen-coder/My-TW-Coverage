@@ -15,6 +15,7 @@
 - **4510 高鋒** (Specialty Industrial Machinery)
 - **6664 群翊** (Specialty Industrial Machinery)
 - **6706 惠特** (Specialty Industrial Machinery)
+- **6510 精測** (Semiconductor Equipment & Materials)
 
 ## 中游 (3)
 

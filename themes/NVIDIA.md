@@ -71,6 +71,7 @@
 - **2449 京元電子** (Semiconductors)
 - **7749 意騰-KY** (Software - Infrastructure)
 - **5607 遠雄港** (Specialty Business Services)
+- **8234 新漢** (Computer Hardware)
 
 ## 相關公司 (46)
 

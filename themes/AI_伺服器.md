@@ -20,6 +20,8 @@
 - **3231 緯創** (Computer Hardware)
 - **6982 大井泵浦** (Specialty Industrial Machinery)
 - **2025 千興** (Steel)
+- **6411 晶焱** (Semiconductors)
+- **6679 鈺太** (Semiconductors)
 
 ## 中游 (17)
 
@@ -40,6 +42,9 @@
 - **7861 貝爾威勒** (Electronic Components)
 - **3691 碩禾** (Solar)
 - **8996 高力** (Specialty Industrial Machinery)
+- **6231 系微** (金融)
+- **6462 神盾** (Software - Infrastructure)
+- **8054 安國** (Computer Hardware)
 
 ## 下游 (43)
 
@@ -86,6 +91,11 @@
 - **6831 邁科** (Specialty Industrial Machinery)
 - **5498 凱崴** (Tools & Accessories)
 - **8390 金益鼎** (Waste Management)
+- **3147 大綜** (Information Technology Services)
+- **6188 廣明** (金融)
+- **6811 宏碁資訊** (Information Technology Services)
+- **8099 大世科** (Information Technology Services)
+- **8234 新漢** (Computer Hardware)
 
 ## 相關公司 (78)
 

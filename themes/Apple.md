@@ -71,6 +71,8 @@
 - **1590 亞德客-KY** (Specialty Industrial Machinery)
 - **6706 惠特** (Specialty Industrial Machinery)
 - **1444 力麗** (Textile Manufacturing)
+- **6143 振曜** (Communication Equipment)
+- **8069 元太** (Electronic Components)
 
 ## 相關公司 (25)
 

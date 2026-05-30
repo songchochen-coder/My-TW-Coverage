@@ -12,6 +12,9 @@
 
 - **2330 台積電** (Semiconductors)
 - **6909 創控** (Specialty Industrial Machinery)
+- **6510 精測** (Semiconductor Equipment & Materials)
+- **6788 華景電** (Electrical Equipment & Parts)
+- **6829 千附精密** (Specialty Industrial Machinery)
 
 ## 下游 (2)
 
